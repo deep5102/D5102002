@@ -1,0 +1,231 @@
+	<html>
+	<head>
+	<meta name="viewport"
+	content="width=device-width, initial-scale=1">
+	<style>
+	body {margin: 0;}
+	
+	.navbar {
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	font-family: monospace;
+	background-color: black;
+	}
+	
+	.navbar a {
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 16px 89px;
+	text-decoration: none;
+	font-size: 17px;
+	background: black; 
+	}
+	
+	.navbar {
+	color: orange;
+	background-color: black;
+	}
+	.main {
+	padding: 16px;
+	margin-top: 0px;
+	height: 1500px;
+	}
+	
+	</style>
+	</head>
+	<div class="navbar">
+	<a href="a.html">HOME	</a>
+	<a href="history.html">HISTORY</a>	
+	<a href="contact.html">CONTACT</a>
+	<a href="about.html">ABOUT</a>
+	</div>
+	</body>
+	</html>
+
+<br></br>
+<br></br>
+
+<html>
+<head>
+<meta name="viewport"
+content="width=device-width, initial-scale=1">
+<link rel="stylesheet"
+href="https://cdnjs.clouddlare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+
+div.background {
+  width: 100%;
+  height: 80%;
+  background: url(/storage/emulated/0/html/background.jpg	) repeat;
+  border: 2px solid black;
+}
+
+div.transbox {
+  margin: 50px;
+  padding: 20px 20px;
+  background-color: #ffffff;
+  border: 5px solid black;
+  opacity: 0.6	;
+  text-align: center; 
+}
+
+div.transbox p {
+  margin: 10%;
+  font-weight: bold;
+  color: #000000;
+}
+</style>
+</head>
+<body>
+
+<div class="background">
+  <div class="transbox">
+    <header><font size="8"><font color="black">CONTACT US</font size></font color></header>
+  </div>
+</div>
+
+</body>
+</html>
+
+
+<html>
+<head>
+<meta name="viewport"
+content="width=device-width, initial-scale=1">
+<br></br>
+<br></br>
+<style>	
+body { font-family: monospace;}
+*{box-sizing: border-box;}
+	
+input[type=text], select, textarea {
+width: 100%;
+padding: 12px;
+border: 1px solid black	;
+border-radius: 4px;
+box-sizing: border-box;
+margin-top: 6px;
+margin-bottom: 16px;
+resize: vertical;
+font-size: 15;
+	  
+}
+	
+input[type=submit] {
+background-color: orange;
+color: black;
+padding: 12px 20px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+font-size: 15px	;
+}
+	
+input[type=submit]:hover {
+	
+}
+.container {
+border-radius: 5px;
+padding: 20px;
+color: black;
+}
+
+</style>
+</head>
+<body>
+<div class="container">
+<form action="/action_page.php">
+<label for="fname">first name</label>
+<input type="text" id="fname"
+name="firstname" placeholder="your name..">
+
+<label for="lname">last name</label>
+<input type="text" id="lname" name="lastname" placeholder="your last name..">
+
+<label for="country">country</label>
+<select id="country" name="country">
+<option
+value="australia">Australia</option>
+<option
+value="usa">U.S.A</option>
+</select>
+<label for="subject">Subject</label>
+<textarea id="subject"
+name="subject" placeholder="Write something.." style="height: 200px;">
+</textarea>
+<input type="submit" value="submit">
+</form>
+</div>
+</body>
+</html>
+<br></br>
+<hr>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+
+
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 	60px;
+  text-align: center;
+  text-decoration: none;
+  margin: 100px 80px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+    
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  border-radius: 50px;
+}
+
+
+.fa-google {
+  background: black;
+  color: red;  	
+  border-radius: 50px;
+}
+
+.fa-instagram {
+  background: black ;
+  color: white;
+  border-radius: 50px;
+  
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: black;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  border-radius: 50px	;
+}
+</style>
+</head>
+<body>
+<!-- Add font awesome icons -->
+&nbsp; &nbsp; <a href="https://www.facebook.com/deep.bhavsar.984" class="fa fa-facebook"></a>
+
+<a href="https://www.google.com" class="fa fa-google"></a>
+
+<a href="https://instagram.com/itssdeepp?igshid=je01f76k73i4" class="fa fa-instagram"></a>
+
+<a href="https://www.snapchat.com/add/deepbhavsar10" class="fa fa-snapchat-ghost"></a>
+</body>
+</html>
+<br></br>
+<br></br>
+<hr line color="orange">	
+<center><font size="3">&copy; 2021 Techno-World inc. All right reserved.</font size></center>
+<hr line color="black">

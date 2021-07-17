@@ -1,0 +1,160 @@
+<html>
+<head>
+<meta name="viewport"
+content="width=device-width, initial-scale=1">
+<style>
+body 
+{margin:0; background-color: grey;}
+
+.navbar {
+overflow: hidden;
+background-color:black;
+position: fixed;
+top: 0;
+width: 100%;
+font-family: monospace;
+}
+
+.navbar a {
+float: left;
+display: block;
+color: #ffffff	;
+text-align: center;
+padding: 16px 89px;
+text-decoration: none;
+font-size: 17px;
+}
+
+.navbar {
+background: black	;
+color: black;
+}
+.main {
+padding: 16px;
+margin-top: 30px;
+height: 1500px;
+}
+</style>
+</head>
+<div class="navbar">
+<a href="a.html">HOME	</a>
+<a href="history.html">HISTORY</a>	
+<a href="contact.html">CONTACT</a>
+<a href="about.html">ABOUT</a>
+</div>
+</body>
+</html>
+<br></br>
+<br></br>
+<html>
+<head>
+<meta name="viewport"
+content="width=device-width, initial-scale=1">
+<link rel="stylesheet"
+href="https://cdnjs.clouddlare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+
+div.background {
+  width: 100%;
+  height: 80%;
+  background: url(/storage/emulated/0/html/background.jpg	) repeat;
+  border: 2px solid black;
+}
+
+div.transbox {
+  margin: 50px;
+  padding: 20px 20px;
+  background-color: #ffffff;
+  border: 5px solid black;
+  opacity: 0.6	;
+  text-align: center; 
+}
+
+div.transbox p {
+  margin: 10%;
+  font-weight: bold;
+  color: #000000;
+}
+</style>
+</head>
+<body>
+
+<div class="background">
+  <div class="transbox">
+    <header><font size="8"><font color="black">ABOUT US</font size></font color></header>
+  </div>
+</div>
+
+</body>
+</html>
+
+<br></br>
+<br></br>
+<hr>
+<header style="font-size: 20px; font-family: monospace; background-color: white; color: black;">Created By:- Deep Bhavsar</header> 		
+<hr line color="black">
+<br></br>
+<br></br>
+<br></br>	
+<p style="font-family: monospace; font-size: 15px;">⭐ Computer Programmer Job Description Template
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+⭐ We are looking for a meticulous and technically skilled computer programmer to develop and maintain our organization's systems software and computing infrastructure. The Computer Programmer's duties will include managing systems performance, providing tech support, reviewing and updating existing programs, identifying and fixing defects, supporting data architecture, generating reports, developing in-house software, and mitigating potential risk. Your expertise in the craft of programming will assist our organization in increasing efficiency and service through the construction, maintenance, and streamlining of our computing systems and programs.
+<br></br>
+<br></br>
+⭐ The ideal candidate for this role must possess superior coding skills, excellent communication, high concentration levels, good task management, and superior problem solving and critical thinking skills. Essentially, the outstanding computer programmer must enhance the efficiency and cost-effectiveness of systems, resolve errors, and design programs that are customized to our organization's needs.
+<br></br>
+<hr>
+<marquee direction="up" behavior="scroll" scrollamount="12">
+<br></br>
+	1. Computer Programmer Responsibilities:
+<br></br>
+2. Coding and debugging.
+<br></br>
+3. Designing and testing computer structures.
+<br></br>
+4. Troubleshooting system errors.
+<br></br>
+5. Writing computer instructions.
+<br></br>
+6. Managing database systems.
+<br></br>
+7. Maintaining operating systems.
+<br></br>
+8. Editing source-code.
+<br></br>
+9. Profiling and analyzing algorithms.
+<br></br>
+10. Implementing build systems.
+<br></br>
+11. Providing tech support.
+<br></br>
+12. Computer Programmer Requirements:
+<br></br>
+13. Degree in computer science or computer programming.
+<br></br>
+14. End user-oriented.
+<br></br>
+15. Expert IT skills.
+<br></br>
+16. Strong aptitude for math.
+<br></br>
+17. Advanced knowledge of operating systems.
+<br></br>
+18. Analytical and problem-solving skills.
+<br></br>
+19. Java, C++, SQL, C#, and HTML experience.
+<br></br>
+20. Aptitude for learning new technology.
+<br></br>
+21. Deadline driven.
+<br></br>
+22. Superior communication skills
+</marquee></p>
+<br></br>
+<hr>	
+<center><font size="3">&copy; 2021 Techno-World inc. All right reserved.</font size></center>
+<hr line color="black">

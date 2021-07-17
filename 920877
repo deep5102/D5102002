@@ -1,0 +1,90 @@
+<html>
+<head>
+<meta name="viewport"
+content="width=device-width, initial-scale=1">
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.navbar {
+overflow: hidden;
+background-color:black;
+position: fixed;
+top: 0;
+width: 100%;
+}
+
+.navbar a {
+float: left;
+display: block;
+color: #ffffff	;
+text-align: center;
+padding: 18px 86px;
+text-decoration: none;
+font-size: 17px;
+}
+
+.navbar {
+background: black	;
+color: black;
+}
+.main {
+padding: 16px;
+margin-top: 30px;
+height: 1500px;
+}
+	
+
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 18px;
+  text-align: center;
+  text-decoration: none;
+  margin: 20px 20px;
+}
+
+.fa:hover {
+    opacity: 0.6;
+    
+}
+
+.fa-whatsapp {
+  background: #0fff50;
+  color: white;
+  border-radius: 50px;
+}
+
+
+.fa-envelope {
+  background: red;
+  color: black;  	
+  border-radius: 40px;
+}  
+.fa-instagram {
+  background: black;
+  color: white;  	
+  border-radius: 40px;
+}
+
+</style>
+</head>
+<body>
+
+<hr line color="orange">
+<header style="font-family: monospace; font-size: 30px; color: white; text-align: center; background-color: black;"> CONTACT US ON </header>
+<hr line color="black">
+<br></br>
+<strong><font size="8%"> </font size></strong>
+<a href="https://www.whatsapp.com/download/+919867937187/" class="fa fa-whatsapp"></a>
+<strong> +919867937187 </strong>
+<br></br>
+<a href="https://www.deepanshubhavsar5102@gmail.com/" class="fa fa-envelope"></a> 
+<strong> G-mail </strong>
+<br></br>
+<a href="https://instagram.com/programming_language_23?utm_medium=copy_link" class="fa fa-instagram"></a> 
+<strong> Instagram </strong>
+<br></br>
+<br></br>
+<hr>
+<center><font size="3">&copy; 2021 Techno-World inc. All right reserved.</font size></center>
+<hr line color="black"></body>

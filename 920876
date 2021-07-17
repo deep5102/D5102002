@@ -1,0 +1,258 @@
+<html>
+<head>
+<meta name="viewport"
+content="width=device-width, initial-scale=1">
+<style>
+body {margin: 0;background-color: grey;}
+.navbar {
+overflow: hidden;
+background-color:black;
+position: fixed;
+top: 0;
+width: 100%;
+}
+
+.navbar a {
+float: left;
+display: block;
+color: #ffffff;
+text-align: center;
+padding: 18px 86px;
+text-decoration: none;
+font-size: 17px;
+}
+
+.navbar {
+color: black;
+}
+.main {
+padding: 16px;
+margin-top: 30px;
+height: 150px;
+}
+</style>
+</head>
+<div class="navbar">
+<a href="a.html">HOME</a>
+<a href="history.html">HISTORY</a>	
+<a href="contact.html">CONTACT</a>
+<a href="about.html">ABOUT</a>
+</div>
+<br></br>
+
+
+
+
+<html>
+<head>
+<meta name="viewport"
+content="width=device-width, initial-scale=1">
+<link rel="stylesheet"
+href="https://cdnjs.clouddlare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+
+div.background {
+  width: 100%;
+  height: 80%;
+  background: url(/storage/emulated/0/html/background.jpg	) repeat;
+  border: 2px solid black;
+}
+
+div.transbox {
+  margin: 50px;
+  padding: 20px 20px;
+  background-color: #ffffff;
+  border: 5px solid black;
+  opacity: 0.6	;
+  text-align: center; 
+}
+
+div.transbox p {
+  margin: 10%;
+  font-weight: bold;
+  color: #000000;
+}
+</style>
+</head>
+<body>
+
+<div class="background">
+  <div class="transbox">
+    <header style="color: black; font-size: 30px; font-family: monospace;	">GENERATION'S OF COMPUTER</header>
+  </div>
+</div>
+
+<br></br>
+<br></br>
+<p style="font-family: monospace; margin: 10; font-size: 15px;">⭐ First Generation of Computers
+Classification of generations of computers
+The evolution of computer technology is often divided into five generations.
+<br></br>
+Five Generations of Computers
+<br></br>
+Generations of computers	Generations timeline	Evolving hardware
+<br></br>
+1. 	First generation	1940s-1950s	Vacuum tube based
+<br></br>
+2. Second generation	1950s-1960s	Transistor based
+<br></br>
+3. Third generation	1960s-1970s	Integrated circuit based
+<br></br>
+4. Fourth generation	1970s-present	Microprocessor based
+<br></br>
+5. Fifth generation	The present and the future	Artificial intelligence based
+<br></br>
+<br></br>
+📀 The main characteristics of first generation of computers (1940s-1950s)
+<br></br>
+<br></br>
+<center><img src="/storage/emulated/0/html/fg.jpg" width="30%" height="50%">
+<br></br>
+FIRST GENERATION OF COMPUTER (1940-1950)
+</center>
+<br></br>
+<br></br>
+<p style="font-family: monospace; margin: 10; font-size: 15px;">1. Main electronic component – vacuum tube
+<br></br>
+2. Main memory – magnetic drums and magnetic tapes
+<br></br>
+3. Programming language – machine language
+<br></br>
+4. Power – consume a lot of electricity and generate a lot of heat.
+<br></br>
+5. Speed and size – very slow and very large in size (often taking up entire room).
+<br></br>
+6. Input/output devices – punched cards and paper tape.
+<br></br>
+Examples – ENIAC, UNIVAC1, IBM 650, IBM 701, etc.
+<br></br>
+Quantity – there were about 100 different vacuum tube computers produced between 1942 and1963.
+<br></br>
+📀 Second Generation of Computers
+<br></br>
+The main characteristics of second generation of computers (1950s-1960s)
+<br></br>
+<br></br>
+<center><img src="/storage/emulated/0/html/sg.jpg" width="30%" height="50%">
+<br></br>
+SECOND GENERATION OF COMPUTER (1950-1960)
+<br></br>
+<br></br></center>
+<p style="font-family: monospace; margin: 10; font-size: 15px;">1. Main electronic component – transistor
+<br></br>
+2. Memory – magnetic core and magnetic tape / disk
+<br></br>
+3. Programming language – assembly language
+<br></br>
+4. Power and size – low power consumption, generated less heat, and smaller in size (in comparison with the first generation computers).
+<br></br>
+5. Speed – improvement of speed and reliability (in comparison with the first generation computers).
+<br></br>
+6. Input/output devices – punched cards and magnetic tape.
+<br></br>
+Examples – IBM 1401, IBM 7090 and 7094, UNIVAC 1107, etc.
+<br></br>
+📀 Third Generation of Computers
+<br></br>
+The main characteristics of third generation of computers (1960s-1970s)
+<br></br>
+<br></br>
+
+<center><img src="/storage/emulated/0/html/tg.jpg" width="30%" height="50%">
+<br></br>
+THIRD GENERATION OF COMPUTER (1960-1970)
+<br></br>
+<br></br>
+</center>
+<p style="font-family: monospace; margin: 10; font-size: 15px;">1. Main electronic component – integrated circuits (ICs)
+<br></br>
+2. Memory – large magnetic core, magnetic tape / disk
+<br></br>
+3. Programming language – high level language (FORTRAN, BASIC, Pascal, COBOL, C, etc.)
+<br></br>
+4. Size – smaller, cheaper, and more efficient than second generation computers (they were called minicomputers).
+<br></br>
+6. Speed – improvement of speed and reliability (in comparison with the second generation computers).
+<br></br>
+7. Input / output devices – magnetic tape, keyboard, monitor, printer, etc.
+<br></br>
+Examples – IBM 360, IBM 370, PDP-11, UNIVAC 1108, etc.
+<br></br>
+📀 Fourth Generation of Computers
+<br></br>
+1. The main characteristics of fourth generation of computers (1970s-present)
+<br></br>
+<br></br>
+
+<center><img src="/storage/emulated/0/html/4g.jpg" width="30%" height="50%">
+<br></br>
+
+FOURTH GENERATION OF COMPUTER (1970-Present)
+<br></br>
+<br></br>
+</center>
+<p style="font-family: monospace; margin: 10; font-size: 15px;">2. Main electronic component – very large-scale integration (VLSI) and microprocessor.
+<br></br>
+3. VLSI– thousands of transistors on a single microchip.
+<br></br>
+4. Memory – semiconductor memory (such as RAM, ROM, etc.)
+<br></br>
+5. RAM (random-access memory) – a type of data storage (memory element) used in computers that temporary stores of programs and data (volatile: its contents are lost when the computer is turned off).
+<br></br>
+6. ROM (read-only memory) – a type of data storage used in computers that permanently stores data and programs (non-volatile: its contents are retained even when the computer is turned off).
+<br></br>
+7. Programming language – high level language (Python, C#, Java, JavaScript, Rust, Kotlin, etc.).
+A mix of both third- and fourth-generation languages
+<br></br>
+8. Size – smaller, cheaper and more efficient than third generation computers.
+<br></br>
+9. Speed – improvement of speed, accuracy, and reliability (in comparison with the third generation computers).
+<br></br>
+10. Input / output devices – keyboard, pointing devices, optical scanning, monitor, printer, etc.
+<br></br>
+11. Network – a group of two or more computer systems linked together.
+<br></br>
+Examples – IBM PC, STAR 1000, APPLE II, Apple Macintosh, etc.
+<br></br>
+📀 Fifth Generation of Computers
+<br></br>
+1. The main characteristics of fifth generation of computers (the present and the future)
+<br></br>
+<br></br>
+
+<center><img src="/storage/emulated/0/html/5g.jpg" width="30%" height="50%">
+<br></br>
+(PRESENT)
+<br></br>
+</center>
+<p style="font-family: monospace; margin: 10; font-size: 15px;">2. Main electronic component: based on artificial intelligence, uses the Ultra Large-Scale Integration (ULSI) 
+3. technology and parallel processing method.
+<br></br>
+4. ULSI – millions of transistors on a single microchip
+<br></br>
+5. Parallel processing method – use two or more microprocessors to run tasks simultaneously.
+<br></br>
+6. Language – understand natural language (human language).
+<br></br>
+7. Power – consume less power and generate less heat.
+<br></br>
+8. Speed – remarkable improvement of speed, accuracy and reliability (in comparison with the fourth generation computers).
+<br></br>
+9. Size – portable and small in size, and have a huge storage capacity.
+<br></br>
+10. Input / output device – keyboard, monitor, mouse, trackpad (or touchpad), touchscreen, pen, speech input (recognise voice / speech), light scanner, printer, etc.
+<br></br>
+Example – desktops, laptops, tablets, smartphones, etc.
+<br></br>
+Three women sitting around a table with laptops.
+<br></br>
+The computer – this amazing technology went from a government/business-only technology to being everywhere from people’s homes, work places, to people’s pockets in less than 100 years.</p>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<hr>
+<center><font size="3">&copy; 2021 Techno-World inc. All right reserved.</font size></center>
+<hr line color="black">
+</body>
+</html>

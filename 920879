@@ -1,0 +1,152 @@
+<html>
+<head>
+<meta name="viewport"
+content="width=device-width, initial-scale=1">
+<style>
+body 
+{margin:0; background-color: grey;}
+
+.navbar {
+overflow: hidden;
+background-color:black;
+position: fixed;
+top: 0;
+width: 100%;
+font-family: monospace;
+}
+
+.navbar a {
+float: left;
+display: block;
+color: #ffffff	;
+text-align: center;
+padding: 16px 89px;
+text-decoration: none;
+font-size: 17px;
+}
+
+.navbar {
+background: black	;
+color: black;
+}
+.main {
+padding: 16px;
+margin-top: 30px;
+height: 1500px;
+}
+</style>
+</head>
+<div class="navbar">
+<a href="a.html">HOME	</a>
+<a href="history.html">HISTORY</a>	
+<a href="contact.html">CONTACT</a>
+<a href="about.html">ABOUT</a>
+</div>
+
+
+
+<html>
+<head>
+<meta name="viewport"
+content="width=device-width, initial-scale=1">
+<style>
+a {
+text-decoration: none;
+display: inline-block;
+padding: 12px 18px;
+}
+
+a:hover {
+background-color: #ddd;
+color: black;
+}
+
+.previous {
+background-color: #04aa6d;
+color: black;
+}
+
+.next {
+background-color: #04aa6d;
+color: black;
+text-align: center;
+}
+
+.round {
+border-radius: 50%;
+width: 10;
+height: 20;
+}
+
+</style>
+</head>
+<body bgcolor="grey">
+<br><br>
+
+
+
+<html>
+<head>
+<meta name="viewport"
+content="width=device-width, initial-scale=1">
+<link rel="stylesheet"
+href="https://cdnjs.clouddlare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+
+div.background {
+  width: 100%;
+  height: 80%;
+  background: url(/storage/emulated/0/html/background.jpg	) repeat;
+  border: 2px solid black;
+}
+
+div.transbox {
+  margin: 50px;
+  padding: 20px 20px;
+  background-color: #ffffff;
+  border: 5px solid black;
+  opacity: 0.6	;
+  text-align: center; 
+}
+
+div.transbox p {
+  margin: 10%;
+  font-weight: bold;
+  color: #000000;
+}
+</style>
+</head>
+<body>
+
+<div class="background">
+  <div class="transbox">
+    <header style="color: black; font-size: 30px; font-family: monospace;">HISTORY OF COMPUTER</header>
+  </div>
+</div>
+
+</body>
+</html>
+<hr>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
+<strong>Next</strong>&nbsp;&nbsp;<a href="1.html" class="next round">&#8250;</a>	
+<hr>
+<br></br>
+<br></br>
+<br></br>
+
+<font size="4"><p style=	"font-family: monospace;">⭐ 	A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically. Modern computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks. A computer system is a "complete" computer that includes the hardware, operating system (main software), and peripheral equipment needed and used for "full" operation. This term may also refer to a group of computers that are linked and function together, such as a computer network or computer cluster.
+<br></br>
+⭐ A broad range of industrial and consumer products use computers as control systems. Simple special-purpose devices like microwave ovens and remote controls are included, as are factory devices like industrial robots and computer-aided design, as well as general-purpose devices like personal computers and mobile devices like smartphones. Computers power the Internet, which links hundreds of millions of other computers and users.
+<br></br>
+<br></br>
+<br></br>
+<center><img src="/storage/emulated/0/html/i7.jpg" width="50%" height="50%"></center>
+<br></br>
+<center><strong><u>Computer From 1995.</u></center></strong>
+<br></br>
+<br></br>
+<br></br>
+<hr>
+<center><font size="3">&copy; 2021 Techno-World inc. All right reserved.</font size></center>
+<hr line color="black"></body>
+</html>
